@@ -155,4 +155,4 @@ if you want to allow the creation of Tags when they don't exist. This also appli
 :Authors:
     Tom Boissonnet
 
-:Version: 1.0 of 2024/03/01
+:Version: 1.1 of 2025/11/20
